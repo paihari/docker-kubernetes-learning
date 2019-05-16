@@ -9,3 +9,5 @@ COPY . .
 
 CMD ["npm", "start"]
 
+#check
+

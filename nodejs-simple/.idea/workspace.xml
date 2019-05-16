@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5307b378-7360-4ea2-b236-38f5368f877f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nodejs-simple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../site-visits-node-redis/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../site-visits-node-redis/.idea/site-visits-node-redis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker-file-demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-file-demo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../site-visits-node-redis/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../site-visits-node-redis/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site-visits-node-redis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../site-visits-node-redis/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
